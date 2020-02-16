@@ -177,6 +177,9 @@ When it moves off screen to the left, remove it
 
 
 
+
+
+
 if __name__ == "__main__":
     app = SpaceShooter()
     app.setup()
